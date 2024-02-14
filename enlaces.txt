@@ -1,0 +1,27 @@
+blackbox.ai
+chatgpt
+Bard
+scikit.learn.org sklearn.svm.svc
+https://proceedings.mlr.press/v9/glorot10a.html
+
+
+
+gradient descend algorithm++
+
+
+vanishing gradient	
+
+
+pyth
+
+
+Formula de precision
+
+Falsos positivos
+True positives
+True Nagatives
+False Negatives
+
+
+regularizers
+
